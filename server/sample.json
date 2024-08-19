@@ -1,0 +1,8 @@
+[
+    {"id" :1, "name" : "John", "age": "25", "city" : "erode"},
+    {"id" :2, "name" : "Arul", "age": "25", "city" : "Tirupur"},
+    {"id" :3, "name" : "Mali", "age": "23", "city" : "erode"},
+    {"id" :4, "name" : "Krishna", "age": "22", "city" : "Kumapakona"},
+    {"id" :5, "name" : "Logu", "age": "25", "city" : "Gopi"},
+    {"id" :6, "name" : "Keerthi", "age": "25", "city" : "erode"}
+]
